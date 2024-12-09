@@ -24,3 +24,5 @@ Un jeu de tennis de table opposant un joueur à l'IA, où le premier à atteindr
 
   # Auteur
 Ce projet a été créer par "PEDRO Paulina et SARI Rim"
+### Contributions
+Vos contributions sont bienvenues! Merci!
